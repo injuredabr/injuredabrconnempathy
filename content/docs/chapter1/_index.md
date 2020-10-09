@@ -12,43 +12,47 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## Cancel Account
 
-This feature can be used for publishing content such as:
+V: The member needs to cancel the account.
+I offered him/her a $10 SC and the member
+I
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+## MC Billed
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+V:The member needs to know why she was billed.
+I advised him/her on how to avoid MC.
+I
 
-## Delete courses
+## MC Refund
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+V: The member needs to have MC refunded.
+I advised him/her on how to avoid MC.
+I
 
-## Update site menu
+## Skip month
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+V: The member needs to skip th emonth.
+I advised her/him on skipping options.
+I skipped the month for the member.
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+## Track Order
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+V:The member needs to know the status of order# I advised him/her on how to track the order online.
+I advised him/her
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+## Split Order
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
+V: The member needs to know why she only received part of order # I advised him/her on how to track her order online.
+I advised him/her
 
-## Update the docs menu
+## Return Order
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+V: The member needs to process a return on order # I advised him/her on how to create RMA online.
+I created
+
+## Exchange Order
+
+V: The member needs to process an exchange on order # I advised him/her on how to create RMA online.
+I created
+
