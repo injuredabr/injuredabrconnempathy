@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Abraham's personal notes"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "image003.png"
+hero_media = "techstyle_fableticslogos.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,23 +36,14 @@ hero_media = "image003.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "docs/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+
   
 [cta_alt]
   url = "docs/"
-  label = "View Documentation"
+  label = "Ver Notas"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Sitio no oficial:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
-
-Write something interesting about your project here.
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
