@@ -157,8 +157,8 @@ None
 
 **Retention (Save Attempts)**
 
-1 Feature and Benefit, if No, offer 1 Save Incentive
+1 Feature and Benefit, if Not, offer 1 Save Incentive
 
 **Save Incentive**
 
-20% Discount for 1 Item, 1000 RP Points, $10 Store Credit thru VIP Comp Tab
+20% Discount for 1 Item, 1000 RP Points, $10 Store Credit through VIP Comp Tab
