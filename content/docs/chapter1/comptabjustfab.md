@@ -24,10 +24,11 @@ Website ----- www.justfab.com
 **Merchandise**
 
 Apparel, Shoe, Handbag, Denim, and Jewelry
+First Style starting $9.99 or 2 Styles for $39.95
 
 **First-Time Offer(s)**
 
-First Style starting $9.99 or 2 Styles for $39.95
+__Depends on the current offer__
 
 ## Membership
 
