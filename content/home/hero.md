@@ -37,13 +37,19 @@ hero_media = "techstyle_fableticslogos.jpeg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 
-  
-[cta_alt]
-  url = "docs/"
-  label = "Ver Notas"
+ 
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Sitio no oficial:<!-- V --></span>'
+  
+  
+  
+  
+  
+  
+  
+  
+No relacionado con CONNEMPATHY
 +++
 
