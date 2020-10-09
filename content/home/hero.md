@@ -40,8 +40,5 @@ hero_media = "techstyle_fableticslogos.jpeg"
  
 
 # Note. An optional note to show underneath the links.
-
-
-*Sitio no oficial*
 +++
-
+*Sitio no oficial*
