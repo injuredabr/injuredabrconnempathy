@@ -40,16 +40,8 @@ hero_media = "techstyle_fableticslogos.jpeg"
  
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Sitio no oficial:<!-- V --></span>'
-  
-  
-  
-  
-  
-  
-  
-  
-No relacionado con CONNEMPATHY
+
+
+*Sitio no oficial*
 +++
 
