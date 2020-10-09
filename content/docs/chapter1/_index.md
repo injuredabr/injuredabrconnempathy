@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Disposal templates
+summary: Personal copy paste templates for final disposal
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Disposal templates
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
