@@ -1,6 +1,6 @@
 ---
 title: Rma Scripts
-linktitle: rmascript
+linktitle: Rma Script
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
@@ -49,4 +49,8 @@ returns. Once your items are received in full by our team at the warehouse,
 your store credits will reflect on your account. It can take up to 24-48 bussiness hours after
 the items are received.
 
+## Closing
 
+Alright ma'am/sir/miss (NAME) Besides helping you with (him/her issue) is there anyhting else I can help you wth?
+Just a kind reminder, We're available 24/7 for your convenience, thanks for calling ______ Once again my name is Abraham
+and it was a pleasure to attend you, have a wonderful day!
