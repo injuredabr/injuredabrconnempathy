@@ -16,11 +16,11 @@ type: book  # Do not modify.
 Hello, thank you for calling justfab. This is Abraham and I'll be your
 stylist today. Who do I have the plessure with? (Validate Identity)
 Nice to meet you (NAME)! May I have your email account please?
-While I access into your accaount, How can I help you in this call?
+While I access into your account, How can I help you in this call?
 
 ## Justfab
 
 Hello, thank you for calling justfab. This is Abraham and I'll be your
 fashion consultant today. Who do I have the plessure with? (Validate Identity)
 Nice to meet you (NAME)! May I have your email account please?
-While I access into your accaount, How can I help you in this call?
+While I access into your account, How can I help you in this call?
