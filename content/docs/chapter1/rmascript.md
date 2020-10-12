@@ -53,4 +53,4 @@ the items are received.
 
 Alright ma'am/sir/miss (NAME) Besides helping you with (him/her issue) is there anyhting else I can help you wth?
 Just a kind reminder, We're available 24/7 for your convenience, thanks for calling ___ Once again my name is Abraham
-and it was a pleasure to attend you, have a wonderful day!
+and it was a pleasure to serve you, have a wonderful day!
