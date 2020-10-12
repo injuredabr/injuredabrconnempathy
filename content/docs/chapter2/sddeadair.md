@@ -1,6 +1,6 @@
 ---
-title: SD Deadair
-linktitle: Brief notes to avoid dead air
+title: Brief notes to avoid deadair
+linktitle: SD Deadair
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
