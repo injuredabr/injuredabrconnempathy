@@ -49,6 +49,10 @@ returns. Once your items are received in full by our team at the warehouse,
 your store credits will reflect on your account. It can take up to 24-48 bussiness hours after
 the items are received.
 
+## Fees
+
+Thank you for reaching out to us! To ensure we are providing the best service to our customers, we are taking a transparent approach to tariff fees and how we're following new laws. Since we are committed to providing you the best value of our products, our team is covering the majority of the fees and will be charging you just a small portion. We appreciate your understanding on this matter. Please let us know if we can assist you further
+
 ## Cancelation
 
 Okay, I understand and I will gladly help you with this request. I will be setting your account to Guest Checkout, which means that you won't need to skip the month nor be worried about getting billed. You can still browse our merchandise at retail price and you'll be receiving an email confirmation about this process. If you ever decide to activate your account again, you can always call us and we will help you to do so.
