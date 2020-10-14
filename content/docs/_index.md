@@ -3,7 +3,8 @@ title: Docs
 type: book  # Do not modify.
 ---
 
-ABCD
+## ABCD
+
 All about the perks.(special pricing
 exclusive sales and promotions
 monthly curated selections
@@ -15,3 +16,6 @@ Browse the new monthly selections.
 Choose to shop or skip.
 Decided not to shop or skip? No problem, but you will be billed a Member Credit
 on the 6th.
+
+## Tips
+{{< figure src="MAX-Scorecard-Tips-for-new-FC_s.png" title="Max Scorecard Tips" >}}
