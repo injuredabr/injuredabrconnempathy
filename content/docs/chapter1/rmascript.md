@@ -65,6 +65,10 @@ Okay, I understand and I will gladly help you with this request. I will be setti
 
 We do not sell any customer information to 3rd parties. We do however share information to provide a more personalized experience while shopping on our sites and you can opt-out of that process if you want to
 
+## Right of Access
+
+If you request to exercise your right to access your account will not be impacted in any way, we will just process your request and you will be able to continue using your account as you would normally do. You would get this information in a max of 45 days.
+
 ## Closing
 
 Alright ma'am/sir/miss (NAME) Besides helping you with (him/her issue) is there anyhting else I can help you with?
