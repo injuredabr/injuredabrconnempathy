@@ -8,4 +8,5 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
-{{< figure src="MAX-Scorecard-Tips-for-new-FC_s.png" title="Max Scorecard Tips" >}}
+{{< figure library="true" src="MAXScorecardTips.png" title="A caption" >}}
+
