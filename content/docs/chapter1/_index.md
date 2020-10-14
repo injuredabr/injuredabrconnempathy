@@ -56,3 +56,6 @@ I created
 V: The member needs to process an exchange on order # I advised him/her on how to create RMA online.
 I created
 
+## CCPA Request
+
+V: Validated Customer Identity, confirmed member request to (CCPA Request). Submitted request.
