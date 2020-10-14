@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Beggining
 type: book  # Do not modify.
 ---
 
@@ -16,6 +16,3 @@ Browse the new monthly selections.
 Choose to shop or skip.
 Decided not to shop or skip? No problem, but you will be billed a Member Credit
 on the 6th.
-
-## Tips
-{{< figure src="MAX-Scorecard-Tips-for-new-FC_s.png" title="Max Scorecard Tips" >}}
