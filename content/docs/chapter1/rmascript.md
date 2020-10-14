@@ -61,6 +61,10 @@ We apologize for any inconvenience, but due to the current laws and regulations 
 
 Okay, I understand and I will gladly help you with this request. I will be setting your account to Guest Checkout, which means that you won't need to skip the month nor be worried about getting billed. You can still browse our merchandise at retail price and you'll be receiving an email confirmation about this process. If you ever decide to activate your account again, you can always call us and we will help you to do so.
 
+## 3rd party information
+
+We do not sell any customer information to 3rd parties. We do however share information to provide a more personalized experience while shopping on our sites and you can opt-out of that process if you want to
+
 ## Closing
 
 Alright ma'am/sir/miss (NAME) Besides helping you with (him/her issue) is there anyhting else I can help you with?
