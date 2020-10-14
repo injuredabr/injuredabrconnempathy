@@ -24,3 +24,9 @@ Hello, thank you for calling justfab. This is Abraham and I'll be your
 fashion consultant today. Who do I have the plessure with? (Validate Identity)
 Nice to meet you (NAME)! May I have your email account please?
 While I access into your account, How can I help you in this call?
+
+
+## Callback Handling Standards
+
+Hi (NAME). My Name is Abraham, calling on behaLf of (BRAND), you scheduled a callback while waiting on queue,
+thank you for your patiente! How may I assist you today?
