@@ -56,6 +56,10 @@ I created
 V: The member needs to process an exchange on order # I advised him/her on how to create RMA online.
 I created
 
+## Not Account Holder
+
+V: Caller with name _ needed _ from the account, not the account nor card holder. Not assistance given.
+
 ## CCPA Request
 
 V: Validated Customer Identity, confirmed member request to (CCPA Request). Submitted request.
