@@ -69,6 +69,51 @@ We do not sell any customer information to 3rd parties. We do however share info
 
 If you request to exercise your right to access your account will not be impacted in any way, we will just process your request and you will be able to continue using your account as you would normally do. You would get this information in a max of 45 days. (give confirmation number)
 
+## Quarantined 
+
+“Your order is currently being reviewed for accuracy.  This is an automated function
+
+and should be completed within the next 24 hours. Once you order has been shipped,
+
+you will receive an order confirmation with tracking information.”
+
+
+## Blacklisted
+
+"(Member Name), based on our records, it appears that there was a violation of our
+terms. Unfortunately, for this reason, your account has been deactivated."
+
+-          __Entire Accounts__
+
+“Your account has been cancelled due to a violation of our terms.  Unfortunately
+
+we are no longer able to offer a VIP membership to you.”
+
+ 
+-          __Credit Cards__
+
+“The credit card on file is no longer available for use due to previous chargebacks
+
+and/or claims of fraudulent activity.  To continue shopping, you must log onto your
+
+account and update your credit card information.”
+
+
+-          __Member Credit Chargebacks__
+
+“The credit card on file is no longer available for use due to previous chargebacks
+
+and/or claims of fraudulent activity.  To continue shopping, you must log onto your
+
+account and update your credit card information.”
+
+
+-          __Shipping Address__
+
+“We are no longer able to ship to the address you have provided. Please update and
+
+confirm your shipping address so that you may continue to receive your items without delay.”
+
 ## Closing
 
 Alright ma'am/sir/miss (NAME) Besides helping you with (him/her issue) is there anyhting else I can help you with?
