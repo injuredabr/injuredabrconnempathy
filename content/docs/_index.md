@@ -19,10 +19,10 @@ on the 6th.
 
 ## H.E.A.T
 
-**H**ear them out/pay attention **-** Let the member vent and acknowloedge.
-**E**mpathize **-** Showing empathy to the member will help you defuse a difficult conversation.
-**A**pologize **-** Take the ownership of the situation regardless of the origin.
-**T**ake Action **-** Lead our member through a solution-oriented experience.
+* **H**ear them out/pay attention **-** Let the member vent and acknowloedge.
+* **E**mpathize **-** Showing empathy to the member will help you defuse a difficult conversation.
+* **A**pologize **-** Take the ownership of the situation regardless of the origin.
+* **T**ake Action **-** Lead our member through a solution-oriented experience.
 
 ## Priority Disposal List
 
