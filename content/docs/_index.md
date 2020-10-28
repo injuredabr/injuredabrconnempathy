@@ -6,11 +6,12 @@ type: book  # Do not modify.
 ## ABCD
 
 All about the perks.(special pricing
-exclusive sales and promotions
-monthly curated selections
-loyalty program
-free shipping and exchanges
-cancel any time)
+and promotions,
+monthly curated selections, exclusive discounts and
+in-store events, early access to sales;
+free returns, exchanges and shipping over 49.95, also earning reward points 
+when you shop or post product reviews that you can reedem
+for free gear or discounts and you cancel any time)
 
 Browse the new monthly selections.
 Choose to shop or skip.
