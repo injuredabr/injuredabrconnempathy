@@ -11,11 +11,11 @@ monthly curated selections, exclusive discounts and
 in-store events, early access to sales;
 free returns, exchanges and shipping over 49.95, also earning reward points 
 when you shop or post product reviews that you can reedem
-for free gear or discounts and you cancel any time)
+for free gear or discounts and you can cancel at any time)
 
-Browse the new monthly selections.
-Choose to shop or skip.
-Decided not to shop or skip? No problem, but you will be billed a Member Credit
+When you Browse for the new monthly selections.
+You can Choose either to shop any item at any price or skip the month. Remember there's no commitment no buy
+And if you Decided not to shop or skip? No problem, but you will be billed a Member Credit
 on the 6th.
 
 ## H.E.A.T
