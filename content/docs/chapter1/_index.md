@@ -63,3 +63,7 @@ V: Caller with name _ needed _ from the account, not the account nor card holder
 ## CCPA Request
 
 V: Validated Customer Identity, confirmed member request to (CCPA Request). Submitted request.
+
+## FL VIP Plus Transfer
+
+V: FL VIP Plus called in / blind transfer / [reasons for transfer]
