@@ -39,7 +39,7 @@ I skipped the month for the member.
 ## Track Order
 
 V:The member needs to know the status of order# I advised him/her on how to track the order online.
-I advised him/her
+I informed him/her
 
 ## Split Order
 
