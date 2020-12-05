@@ -32,7 +32,7 @@ I
 
 ## Skip month
 
-V: The member needs to skip th emonth.
+V: The member needs to skip the month.
 I advised her/him on skipping options.
 I skipped the month for the member.
 
