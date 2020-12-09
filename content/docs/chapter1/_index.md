@@ -15,7 +15,7 @@ type: book  # Do not modify.
 ## Cancel Account
 
 V: The member needs to cancel the account.
-I offered him/her a $10 SC and the member
+I offered him/her $10 SC and the member
 I
 
 ## MC Billed
